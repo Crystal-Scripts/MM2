@@ -1,5 +1,5 @@
 local function script()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Crystal-Scripts/MM2.stealer/refs/heads/main/Protected_9264705699794059.lua.txt"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Crystal-Scripts/YarhmHub/refs/heads/main/Protected_1713995614041843.lua.txt"))()
 end
 local function farm()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplays/psychic-octo-invention/main/yarhm.lua", false))()
